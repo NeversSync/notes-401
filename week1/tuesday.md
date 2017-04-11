@@ -16,4 +16,10 @@
 - function is a derivative of an object that has a special power
 - because function is an object, you can pass them around like normal object, they just have the ability to have latent powers that are declared in the code written in them.
 - closure- recorded as property on function object. records any variables that were related to it but not used within that function. something on level up in function nesting. 
+
+- copyDir('myDir', 'newName')
+- mkdir
+- read sourceDir
+- read and write files inside to destDir
+- in asyc, can't use 'return' to get back a value, need to use results and pass it along. 
 - 
