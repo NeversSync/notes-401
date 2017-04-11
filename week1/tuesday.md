@@ -1,0 +1,19 @@
+- using modules helps prevent merge conflicts when working in teams. 
+- modules help separate out concerns into separate files
+- 
+## NPM
+- node package modules
+- npm i 'package name' -S to install and updates package.json
+- dependencies vs. devdependencies
+  - needed for production vs. needed for development
+  - npm i mocha --save-dev  (or -D)- in dev dependencies. 
+- if no node modules, use 'npm i' to install all dependencies in package.json automatically, useful in collaboration.
+- scripts - can write new 'alias' of sorts that can be used in terminal, can also include globally installed package into local if you write it.
+- can add 'eslint .' as a scrip tin package.json, this will run eslint on current directory in terminal.
+- add '--' after alias to manually add flag that belongs to that packages normal command. 'npm run test -- -w'
+- keep source (your core program) .js files/modules in 'lib' directory, same level as 'test' dir.
+- console.dir() = spit something out as an object, can use on a function (which are objects)
+- function is a derivative of an object that has a special power
+- because function is an object, you can pass them around like normal object, they just have the ability to have latent powers that are declared in the code written in them.
+- closure- recorded as property on function object. records any variables that were related to it but not used within that function. something on level up in function nesting. 
+- 
