@@ -20,3 +20,11 @@
         .post('/')
 that get used in app.js in an app.use('path', pets).
 
+## HTTP Amy lecture
+- Safe methods: don't modify/destroy data
+- Idempotent: can be run n times with the same result
+    - GET: safe and idempodent
+    - PUT: idempotent but not safe. changes data
+    - POST: not safe, not idempotent. creates new data each time, always different. 
+- if something is safe, it is likely the data is cacheable. 
+- 
