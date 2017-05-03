@@ -1,0 +1,11 @@
+## User Authourization
+- check may 2nd in class notes in auth.js and user.js, ect.
+- are you who you say you are?
+- if you are, what are you allowed to do/see?
+- place tokens either in header or in query string.
+- theoretically, because browsers cache your browser history, storing it in query string isnt as secure as the header
+- SSL 
+    - encryption of the body of what is being sent in the request.
+- Bcrypt npm package creates hashes out of text passwords, also has methods like compare to compare passwords and check that they are the same. 
+- export ensure auth schema to app.js and use it as first function in the routes to keep people from getting through without authorization.
+- 
