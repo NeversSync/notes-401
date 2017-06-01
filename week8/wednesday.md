@@ -1,0 +1,6 @@
+- this.props.children.
+  - anything you put in between the opening/closing tags of an component in jsx, can be accessed using this.props.children
+  - You can reuse the component multiple times and change the content by changing what is inside the component tags
+  - All components have a property (props) called children, you can use it when you compose the component, and then fill it with what you like in the render function.
+  - you can pass a function as children and call it from the parent component. wowowowow.
+  - 
