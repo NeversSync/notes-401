@@ -1,0 +1,7 @@
+- Stores have three methods
+  - store.subscribe (listener)
+  - store.getState
+  - store.dispatch
+  - also use createStore to create a redux store
+- actions will have a type and a payload (which can be an object with several properties)
+- 
