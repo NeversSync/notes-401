@@ -1,0 +1,14 @@
+- write a cover letter
+  - address is to a person, use their name
+  - no typos
+  - be specific and mention the company to show you looked at it
+  - give concrete examples of success instead of hard to believe assurances
+- resume
+  - specific examples of success. numbers, not adjectives.
+  - specialize?
+- github
+  - star other peoples stuff
+  - fork things you are interested in, don't even need to work on it
+  - contribute to a major popular repo on github. maybe something you are already using or something that is well known.
+- networking
+  - volunteer at conferences to network
